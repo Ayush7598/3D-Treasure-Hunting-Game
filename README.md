@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=OTGZt0-H4Ag" target="_blank">Game Trailer</a> |
-  <a href="https://github.com/Ayush7598/Amethyst-3D-Adventure-Game" target="_blank">Project Repo</a> |
+  <a href="https://github.com/Ayush7598/3D-Treasure-Hunting-Game/Amethyst-3D-Adventure-Game" target="_blank">Project Repo</a> |
 </p>
 
 ---
