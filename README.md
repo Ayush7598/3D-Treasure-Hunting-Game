@@ -11,12 +11,12 @@
 <br>An Adventure and Immersive 3D Game built using Unity 3D Engine that revolves around exploring and collecting Amethyst gems in an abandoned desolate planet while navigating the obstacles and hostile agents.
 <br>
 <br> &#8680; <strong>Technologies: </strong> Unity 3D Engine, C#
-<br> &#8680; <strong>Author: </strong> (EJ) Vivek Pandey, Sujil Maharjan, Adithya Thiruvalluvan, Arjun Bastola,  Dhruvik Patel
+<br> &#8680; <strong>Author: </strong> (EJ) Ayush singh
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=OTGZt0-H4Ag" target="_blank">Game Trailer</a> |
-  <a href="https://github.com/Viveckh/Amethyst-3D-Adventure-Game" target="_blank">Project Repo</a> |
+  <a href="https://github.com/Ayush7598/Amethyst-3D-Adventure-Game" target="_blank">Project Repo</a> |
 </p>
 
 ---
